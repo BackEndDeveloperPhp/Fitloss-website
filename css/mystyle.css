@@ -1,0 +1,27 @@
+.breadcrumb .breadcrumb_iner .breadcrumb_iner_item h2 {
+    color: #fff;
+    font-size: 46px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+@media only screen and (max-width: 768px) {
+	.breadcrumb .breadcrumb_iner .breadcrumb_iner_item h2 {
+	    color: #fff;
+	    font-size: 36px;
+	    font-weight: 600;
+	    margin-bottom: 10px;
+	    text-transform: uppercase;
+	}
+}
+
+@media only screen and (max-width: 368px) {
+	.breadcrumb .breadcrumb_iner .breadcrumb_iner_item h2 {
+	    color: #fff;
+	    font-size: 24px;
+	    font-weight: 600;
+	    margin-bottom: 10px;
+	    text-transform: uppercase;
+	}
+}
